@@ -30,6 +30,8 @@ The project entailed migrating the VR library from Google VR(deprecated in 2019)
 
 ## Tasks Completed
 * Successfully incorporated image markers functionality in AR library.
+![AR markers test image](https://github.com/p4puniya/processing-gsoc/blob/main/project_wrapups/267441841-f02343ec-9300-4206-8ddb-174f83788dc3.png)
+
 ## TODO 
 * Add Image Markers to AR Library:
 - [x] Create a new function to load the dataset containing the reference images for Augmented Images.
@@ -39,8 +41,6 @@ The project entailed migrating the VR library from Google VR(deprecated in 2019)
 - [ ] Change the VR templates to make it compatible with C++/Android NDK.
 - [ ] Create JNI Bridge.
 - [ ] ...Continue Edits...
-
-## Suggested Next Step:
 
 ## Challenges
 * As the coding period progressed, we discovered that the Cardboard SDK was for the Android NDK, i.e. all the methods for Cardboard were written in C/C++. As this increased the project complexity, we decided to extend our GSOC timeline.
