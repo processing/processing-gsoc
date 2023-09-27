@@ -1,5 +1,5 @@
 
-# WIP: Adding AR Markers and Migrating VR Library
+# Adding AR Markers and Migrating VR Library
 
 | **Project** | [Adding AR Image Markers and Migrating VR Library](https://summerofcode.withgoogle.com/programs/2023/projects/5DBKH7wz) | 
 | :--- | :--- |
