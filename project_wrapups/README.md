@@ -7,4 +7,4 @@ This folder contains wrap-up reports from Processing related [Google Summer of C
 ### Google Summer of Code 2023
 
 * [Adding Image Markers and Migrating VR Library](https://github.com/p4puniya/processing-gsoc/blob/main/project_wrapups/gaurav_puniya_gsoc_2023.md) by Gaurav Puniya, 2023
-* [Friendly Error Messages for Processing](https://github.com/processing/processing4/pull/771#issuecomment-1695917774) by Will Rabalais, 2023
+* [Friendly Error Messages for Processing](https://github.com/processing/processing-gsoc/blob/main/project_wrapups/will_rabalais_gsoc_2023.md) by Will Rabalais, 2023
